@@ -8,7 +8,9 @@ There are two key components to Bugg:
 * A **sensor device**, which records and uploads audio data in real-time _(all designs available on this repository)_, and
 * A **server instance** which analyses data and presents results in a web dashboard _(coming soon)_
 
-## Sensor device: electronics
+## Sensor device
+
+### Electronics
 
 The repositories which host the electrical and mechanical CAD source files are:
 * [``sp-hardware-main``](https://github.com/bugg-resources/sp-hardware-main): main module PCB eCAD files
@@ -18,7 +20,7 @@ The repositories which host the electrical and mechanical CAD source files are:
 * [``bugg-enclosure``](https://github.com/bugg-resources/bugg-enclosure): 3D CAD files for the custom enclosure and full assembly for the Bugg device including connectors, fasteners, etc.   
 * [``bugg-mech-tooling``](https://github.com/bugg-resources/bugg-mech-tooling): 3D CAD files for tools to aid assembly of the device
 
-## Sensor device: firmware
+### Firmware
 
 The firmware running on the device, with associated documentation, can be found in [``bugg-cm4-firmware``](https://github.com/bugg-resources/bugg-cm4-firmware).
 
