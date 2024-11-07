@@ -13,9 +13,9 @@ There are two key components to Bugg:
 ### Electronics
 
 The repositories which host the electrical and mechanical CAD source files are:
-* [``sp-hardware-main``](https://github.com/bugg-resources/bugg-hardware-main): main module PCB eCAD files
-* [``sp-hardware-led``](https://github.com/bugg-resources/bugg-hardware-led): led module PCB eCAD files
-* [``sp-hardware-mic``](https://github.com/bugg-resources/bugg-hardware-mic): mic module PCB eCAD files
+* [``bugg-hardware-main``](https://github.com/bugg-resources/bugg-hardware-main): main module PCB eCAD files
+* [``bugg-hardware-led``](https://github.com/bugg-resources/bugg-hardware-led): led module PCB eCAD files
+* [``bugg-hardware-mic``](https://github.com/bugg-resources/bugg-hardware-mic): mic module PCB eCAD files
 * [``bugg-enclosure``](https://github.com/bugg-resources/bugg-enclosure): 3D CAD files for the custom enclosure and full assembly for the Bugg device including connectors, fasteners, etc.   
 * [``bugg-mech-tooling``](https://github.com/bugg-resources/bugg-mech-tooling): 3D CAD files for tools to aid assembly of the device
 
