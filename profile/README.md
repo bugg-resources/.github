@@ -21,7 +21,11 @@ The repositories which host the electrical and mechanical CAD source files are:
 
 ### Firmware
 
-The firmware running on the device, with associated documentation, can be found in [``bugg-cm4-firmware``](https://github.com/bugg-resources/bugg-cm4-firmware).
+The repositories which host the two core parts of the firmware are:
+* [``buggd``](https://github.com/bugg-resources/buggd): Recording daemon
+* [``buggOS``](https://github.com/bugg-resources/buggOS): Modified version of Raspberry Pi OS
+
+The firmware hosted in [``bugg-cm4-firmware``](https://github.com/bugg-resources/bugg-cm4-firmware) is an old version which has now been deprecated.
 
 ## Commercial use
 
@@ -41,4 +45,4 @@ Sethi SS, Ewers RM, Jones NS, Signorelli A, Picinali L, Orme CDL. Methods Ecol E
 
 ## Team
 
-The Bugg project was founded and is led by [Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). Technical development has been undertaken by Monad Gottfried, UP Creative, and JBOTS.
+The Bugg project was founded and is led by [Dr. Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). Significant technical development has been undertaken by Monad Gottfried, UP Creative, and JBOTS and key academic collaborators include Prof. Robert Ewers, Prof. Nick Jones, Dr. Lorenzo Picinali, and Dr. David Orme. 
