@@ -55,7 +55,9 @@ Sethi SS, Ewers RM, Jones NS, Signorelli A, Picinali L, Orme CDL. Methods Ecol E
 
 ## Team
 
-The Bugg project was founded and is led by [Dr. Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). Significant technical development has been undertaken by Monad Gottfried, UP Creative, and JBOTS and key academic collaborators include Prof. Robert Ewers, Prof. Nick Jones, Dr. Lorenzo Picinali, and Dr. David Orme. 
+Bugg was founded and is led by [Dr. Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). 
+
+Significant technical development has been undertaken by Monad Gottfried, UP Creative, and JBOTS and key academic collaborators include Prof. Robert Ewers, Prof. Nick Jones, Dr. Lorenzo Picinali, and Dr. David Orme. 
 
 ## Funding
 
