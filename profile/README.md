@@ -37,7 +37,9 @@ If you have the relevant expertise and are still interested in commercial licens
 
 ## Publications
 
-Whilst a useful overview of the motivation and philosophy of the project, please be aware that the technical details of early prototypes outlined the following publications will differsignificantly to what is found in these GitHub repositories (which represent the most up to date Bugg designs). 
+The below publications provide a useful overview of the motivation and philosophy of the project.
+
+However, please be aware that the technical implementations of early prototypes differ significantly from the designs in these GitHub repositories (which are kept up to date). 
 
 **Robust, real-time and autonomous monitoring of ecosystems with an open, low-cost, networked device.**
 Sethi SS, Ewers RM, Jones NS, Orme CDL, Picinali L. Methods Ecol Evol. 2018; 9: 2383–2387. https://doi.org/10.1111/2041-210X.13089 
