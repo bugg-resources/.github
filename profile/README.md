@@ -30,7 +30,7 @@ The repositories which host the electrical and mechanical CAD source files are:
 
 The repositories which host the two core parts of the firmware are:
 * [``buggd``](https://github.com/bugg-resources/buggd): Recording daemon
-* [``buggOS``](https://github.com/bugg-resources/buggOS): Modified version of Raspberry Pi OS
+* [``buggOS``](https://github.com/bugg-resources/buggOS): Modified version of Raspberry Pi OS (along with pre-built images for flashing to the device)
 
 The firmware hosted in [``bugg-cm4-firmware``](https://github.com/bugg-resources/bugg-cm4-firmware) is an old version which has now been deprecated.
 
