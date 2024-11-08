@@ -39,6 +39,6 @@ Sethi SS, Ewers RM, Jones NS, Orme CDL, Picinali L. Methods Ecol Evol. 2018; 9: 
 **SAFE Acoustics: An open-source, real-time eco-acoustic monitoring network in the tropical rainforests of Borneo.**
 Sethi SS, Ewers RM, Jones NS, Signorelli A, Picinali L, Orme CDL. Methods Ecol Evol. 2020; 11: 1182–1185. https://doi.org/10.1111/2041-210X.13438
 
-## Credits
+## Team
 
 The Bugg project was founded and is led by [Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). Technical development has been undertaken by Monad Gottfried, UP Creative, and JBOTS.
