@@ -8,6 +8,12 @@ There are two key components to Bugg:
 * A **sensor device**, which records and uploads audio data in real-time _(all designs available on this repository)_, and
 * A **server instance** which analyses data and presents results in a web dashboard _(coming soon)_
 
+## User guide 
+
+For step by step instructions on how to set up and use the Bugg device, visit https://bugg-resources.github.io/bugg-docs/.
+
+The resources in the following pages are for those who want to dig into the technical details of Bugg (e.g., to manufacture or modify devices) and assume the reader has prior experience with embedded systems design and manufacturing.
+
 ## Sensor device
 
 ### Electronics
