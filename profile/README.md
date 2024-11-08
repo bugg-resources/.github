@@ -5,7 +5,7 @@
 [Bugg](https://www.bugg.xyz/) is a research initiative developing a fully autonomous acoustic monitoring system.
 
 There are two key components to Bugg:
-* A **sensor device**, which records and uploads audio data in real-time _(all designs available on this repository)_, and
+* A **sensor device**, which records and uploads audio data in real-time _(all designs openly available)_
 * A **server instance** which analyses data and presents results in a web dashboard _(coming soon)_
 
 ## User guide 
