@@ -41,4 +41,4 @@ Sethi SS, Ewers RM, Jones NS, Signorelli A, Picinali L, Orme CDL. Methods Ecol E
 
 ## Credits
 
-The Bugg project was founded and is managed by [Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). Technical development has been undertaken by Monad Gottfried Ltd, UP Creative, and JBOTS Ltd.
+The Bugg project was founded and is led by [Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). Technical development has been undertaken by Monad Gottfried, UP Creative, and JBOTS.
