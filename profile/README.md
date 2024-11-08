@@ -29,7 +29,9 @@ The firmware hosted in [``bugg-cm4-firmware``](https://github.com/bugg-resources
 
 ## Commercial use
 
-Bugg is designed primarily for non-commercial uses such as scientific research. Since the device has no formal certifications (e.g., CE or UKCA), to make the hardware ready for commercial deployments significant further investment and potentially design changes may be required.
+Bugg is designed primarily for non-commercial uses such as scientific research, and for these types of use-cases all our resources are free to use (CC-BY-NC-SA 4.0).
+
+Since the device has no formal certifications (e.g., CE or UKCA), to make the hardware ready for commercial deployments significant further investment and potentially design changes may be required.
 
 If you have the relevant expertise and are still interested in commercial licensing options, please contact Sarab Sethi at Imperial College London.
 
