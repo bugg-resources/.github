@@ -16,7 +16,7 @@ For help setting up and using the Bugg device, visit https://bugg-resources.gith
 
 The resources in the following pages are for those who want to dig into the technical details of Bugg (e.g., to manufacture or modify devices) and assume the reader has prior experience with embedded systems design and manufacturing.
 
-### Electronics
+### Hardware
 
 The repositories which host the electrical and mechanical CAD source files are:
 * [``bugg-hardware-main``](https://github.com/bugg-resources/bugg-hardware-main): main module PCB eCAD files
@@ -24,6 +24,7 @@ The repositories which host the electrical and mechanical CAD source files are:
 * [``bugg-hardware-mic``](https://github.com/bugg-resources/bugg-hardware-mic): mic module PCB eCAD files
 * [``bugg-enclosure``](https://github.com/bugg-resources/bugg-enclosure): 3D CAD files for the custom enclosure and full assembly for the Bugg device including connectors, fasteners, etc.   
 * [``bugg-mech-tooling``](https://github.com/bugg-resources/bugg-mech-tooling): 3D CAD files for tools to aid assembly of the device
+* [``bugg-cables``](https://github.com/bugg-resources/bugg-cables): specifications for cable assemblies
 
 ### Firmware
 
