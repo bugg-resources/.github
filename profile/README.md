@@ -2,7 +2,7 @@
 
 # Bugg 
 
-[Bugg](https://www.bugg.xyz/) is a fully autonomous acoustic monitoring system.
+[Bugg](https://www.bugg.xyz/) is a research initiative developing a fully autonomous acoustic monitoring system.
 
 There are two key components to Bugg:
 * A **sensor device**, which records and uploads audio data in real-time _(all designs available on this repository)_, and
@@ -38,3 +38,7 @@ Sethi SS, Ewers RM, Jones NS, Orme CDL, Picinali L. Methods Ecol Evol. 2018; 9: 
 
 **SAFE Acoustics: An open-source, real-time eco-acoustic monitoring network in the tropical rainforests of Borneo.**
 Sethi SS, Ewers RM, Jones NS, Signorelli A, Picinali L, Orme CDL. Methods Ecol Evol. 2020; 11: 1182–1185. https://doi.org/10.1111/2041-210X.13438
+
+## Credits
+
+The Bugg project was founded and is managed by [Sarab Sethi](https://profiles.imperial.ac.uk/sarab.sethi) (Imperial College London). Technical development has been undertaken by Monad Gottfried Ltd, UP Creative, and JBOTS Ltd.
